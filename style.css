@@ -88,8 +88,6 @@ font-size: 30px;
 text-decoration: none;
 }
 
-html {
- scroll-behavior: smooth;
 }
 
 #map iframe
